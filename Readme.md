@@ -25,11 +25,11 @@ Download the aerospace toolbox from the matlab library explorer, [link](https://
 
 ### Executing program
 
-1 - Open MATLAB and clear your workspace with the command clear all
+1 - Open MATLAB and clear your workspace with the command ```clear all```
 
-2 - Run the command data.mat 
+2 - Run the command ```data.mat``` to load the reference trajectory
 
-3 - Open Simulation.slx
+3 - Open Simulation.slx in Simulink
 
 4 - Click the green run arrow
 
