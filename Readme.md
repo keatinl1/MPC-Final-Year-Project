@@ -8,9 +8,9 @@ The reference trajetory ($x_{pos}, y_{pos}, z_{pos}$) was generated using "Fligh
 
 The results of my project indicate that MPC has potential as a control strategy for aircraft, provided that the flight path is not overly aggressive. The following plots demonstrate this capability.
 
-| ![Altitude](https://raw.githubusercontent.com/keatinl1/MPC-Final-Year-Project/main/Figures/double%20alt.jpg) | ![Lateral](https://raw.githubusercontent.com/keatinl1/MPC-Final-Year-Project/main/Figures/double%20lat.jpg) |
+| ![Normal Altitude](https://raw.githubusercontent.com/keatinl1/MPC-Final-Year-Project/main/Figures/double%20alt.jpg) | ![Normal Lateral](https://raw.githubusercontent.com/keatinl1/MPC-Final-Year-Project/main/Figures/double%20lat.jpg) |
 |:--:|:--:|
-| *Altitude* | *Lateral* |
+| *Normal Altitude* | *Normal Lateral* |
 
 | ![Aggressive Altitude](https://raw.githubusercontent.com/keatinl1/MPC-Final-Year-Project/main/Figures/double%20aggressive%20alt.jpg) | ![Aggressive Lateral](https://raw.githubusercontent.com/keatinl1/MPC-Final-Year-Project/main/Figures/double%20aggressive%20lat.jpg) |
 |:--:|:--:|
