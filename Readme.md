@@ -2,7 +2,7 @@
 
 ## Description
 
-This project, submitted for my Bachelor's degree in Mechanical Engineering at Trinity College Dublin, explores the implementation of a Model Predictive Controller (MPC) based autopilot for aircraft. Written entirely in Simulink and MATLAB, this project deepened my understanding of modern control systems, specifically MPC, building on my prior knowledge of classical and geometric control methods.
+This project, submitted for my Bachelor's degree in Mechanical Engineering at Trinity College Dublin, explores the implementation of a Model Predictive Controller (MPC) based autopilot for aircraft. Written entirely in Simulink and MATLAB, this project deepened my understanding of modern control systems, specifically MPC.
 
 The reference trajetory ($x_{pos}, y_{pos}, z_{pos}$) was generated using "FlightGear" the flight simulator and the aircraft model was sourced from Cook's "Flight Dynamics Principles" [1].
 
