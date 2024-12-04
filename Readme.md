@@ -21,7 +21,6 @@ The results of my project indicate that MPC has potential as a control strategy 
 ## Getting Started
 
 ### Dependencies
-Windows 10 (or greater)\
 MATLAB R2021b (or greater)\
 Simulink
 
